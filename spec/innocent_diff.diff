@@ -1,0 +1,11 @@
+--- a/spec/SuperViewController.m
++++ b/spec/SuperViewController.m
+@@ -5,7 +5,6 @@
+ - (void)viewDidLoad {
+   [super viewDidLoad];
+   NSLog(@"perfect change!");
+-  NSLog(@"innocent change!");
+ }
+ 
+ @end
+\ No newline at end of file
